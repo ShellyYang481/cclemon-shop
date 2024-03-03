@@ -1,1 +1,3 @@
-
+spring:
+  main:
+    show-bean-definition: true
